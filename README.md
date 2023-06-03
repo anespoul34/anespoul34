@@ -8,7 +8,7 @@ Constantly researching new technologies to improve myself as a developer, and I 
 ## My Stack
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="67.5px" />
 </p>
 <!--
 **anespoul34/anespoul34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
