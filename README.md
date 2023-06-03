@@ -27,12 +27,20 @@ Constantly researching new technologies to improve myself as a developer, and I 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width="40px" />
 </p>
 
+<a href="https://github.com/anespoul34/Frontend-Mentor-Challenges">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anespoul34&repo=Frontend-Mentor-Challenges&theme=vue-dark" />
+</a>
+
 ## My Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anespoul34&theme=vue-dark)](https://git.io/streak-stats)
 ![Anespoul34's GitHub stats](https://github-readme-stats.vercel.app/api?username=anespoul34&show_icons=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anespoul34&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
+<a href="https://github.com/anespoul34/Frontend-Mentor-Challenges">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anespoul34&repo=Frontend-Mentor-Challenges&theme=vue-dark" />
+</a>
+
 **anespoul34/anespoul34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
