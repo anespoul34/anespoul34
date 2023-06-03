@@ -30,7 +30,8 @@ Constantly researching new technologies to improve myself as a developer, and I 
 ## My Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anespoul34&theme=vue-dark)](https://git.io/streak-stats)
-
+![Anespoul34's GitHub stats](https://github-readme-stats.vercel.app/api?username=anespoul34&show_icons=true&theme=vue-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anespoul34&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **anespoul34/anespoul34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
