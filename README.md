@@ -1,5 +1,4 @@
-### Hi there 👋
-I'm [Arthur](https://www.arthurnespoulous.com)
+### Hi there 👋 I'm [Arthur](https://www.arthurnespoulous.com)
 
 ## About Me
 I have been a front-end developer for over 5 years now. My key skills are Javascript / HTML / CSS as well as other technologies related to front-end development such as Angular, React, Vue, Svelte, Sass, ThreeJs, and Jquery. I also have advanced notions in NodeJs. Passionate about my job, I can quickly build skills on just about any tool.
