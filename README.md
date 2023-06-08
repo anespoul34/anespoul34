@@ -2,7 +2,8 @@
 
 ## About Me
 📙 I'm currently available for work.  
-🔥 I have been a front-end developer for over 4 years now. My key skills are Javascript / HTML / CSS as well as other technologies related to front-end development such as Angular, React, Vue, Svelte, Sass, ThreeJs, and Jquery. I also have advanced notions in NodeJs. Passionate about my job, I can quickly build skills on just about any tool.  
+🔥 I have been a front-end developer for over 4 years now. My key skills are Javascript / HTML / CSS as well as other technologies related to front-end development such as Angular, React, Vue, Svelte, Sass, ThreeJs, and Jquery. Passionate about my job, I can quickly build skills on just about any tool.  
+☀️ From now on i'd like to evolve as a full-stack developer. Over the last few years, I have acquired skills in NodeJs, Express, MySQL, MongoDB, among others. I also have basic knowledge of PHP, Java, and Python. I am looking for a position that will allow me to improve my skills on a back-end stack.  
 🔭 Constantly researching new technologies to improve myself as a developer, and I always keep up to date with the latest industry trends to ensure optimal results for the projects I work on.
 
 ## My Stack
